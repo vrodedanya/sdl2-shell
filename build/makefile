@@ -9,7 +9,7 @@
 #---------------------------------------#
 
 # Program name (ex: test, program)
-NAME :=	window
+NAME := tbo
 # Compiler name (ex: gcc, g++, clang)
 CC := g++
 # File extension (ex: .cpp, .c)
